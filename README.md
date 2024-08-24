@@ -4,6 +4,20 @@ This script is an add-on for Blender 4.2 that allows users to create customizabl
 
 ![Advanced 3D Grid Example](media/1.png)
 
+## Table of Contents
+
+1. [Requirements](#requirements)
+2. [Features](#features)
+3. [Install the Add-on](#install-the-add-on)
+4. [Usage](#usage)
+   - [Accessing the Add-on Panel](#1-accessing-the-add-on-panel)
+   - [Configuring Your 3D Grid](#2-configuring-your-3d-grid)
+   - [Generating the 3D Grid](#3-generating-the-3d-grid)
+   - [Customizing Appearance](#4-customizing-appearance)
+   - [Working with the Result](#5-working-with-the-result)
+5. [Tips for Best Results](#tips-for-best-results)
+6. [Contributing](#contributing)
+
 ## Requirements
 
 Before installing Blender and the add-on, ensure that you meet the following requirements:
