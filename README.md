@@ -4,6 +4,7 @@ This script is an add-on for Blender 4.2 that allows users to create customizabl
 
 ![Advanced 3D Grid Example](media/1.png)
 
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
@@ -53,6 +54,10 @@ Before installing Blender and the add-on, ensure that you meet the following req
     - Access the add-on from the `View3D` panel under the `Grid Generator` tab.
     - Configure your grid and add it to your composition.
 
+
+![Usage](https://github.com/user-attachments/assets/312c28a1-d8d9-49d6-924c-a52f80a5b35d)
+
+
 ## Usage
 
 Once the add-on is installed and enabled, you can use it to generate and customize 3D grids in Blender:
@@ -93,5 +98,7 @@ Once the add-on is installed and enabled, you can use it to generate and customi
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
+
+
 
 
