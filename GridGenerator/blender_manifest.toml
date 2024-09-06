@@ -1,20 +1,16 @@
-schema_version = "1.0.0"
+schema_version = "2.0.0"
 id = "GridGenerator"
-version = "1.0.0"
+version = "2.0.0"
 name = "Grid Generator"
 author = "José Marín"
 tagline = "Customizable 3D Grids for Scientific Visualization in Blender"
 description = """
-v.1.0.0
+v.2.0.0
+new grids presets - 2Ds, 3D external, classic matlab grid and classic 3d coord system
+new customizable parameters for each type
+more units of measures
+bugs correction 
 
-This add-on extends Blender's functionality by enabling the creation and management of customizable 3D grids directly within the 3D viewport. Key features include:
-Generate 3D grid structures with adjustable dimensions and subdivisions
-Display coordinate numbers at each grid point
-Create visible edges with customizable thickness
-Apply emissive materials to make the grid stand out in renders
-Real-time updates for text and edge sizes
-Easily integrate 3D grids into scientific visualizations and data representations
-Streamlined UI for intuitive grid configuration and generation
 """
 blender_version_min = "4.2.0"
 license = ["free licensing"]
