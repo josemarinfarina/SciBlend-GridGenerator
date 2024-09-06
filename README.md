@@ -60,7 +60,6 @@ Before installing Blender and the add-on, ensure that you meet the following req
     - Configure your grid and add it to your composition.
 
 
-![Usage](https://github.com/user-attachments/assets/312c28a1-d8d9-49d6-924c-a52f80a5b35d)
 
 
 ## Usage
